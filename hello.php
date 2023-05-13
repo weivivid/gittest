@@ -1,2 +1,3 @@
 <?php
-phpinfo();
+var_dump(333);
+echo phpinfo();
